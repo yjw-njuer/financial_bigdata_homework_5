@@ -16,8 +16,8 @@
 
 <h2>二、程序运行结果</h2><br>
 <h3>1.统计股票代码</h3><br>
-<strong><em>output结果</em></strong>：输出按出现个数降序排序的股票代码和出现次数<br>![屏幕截图 2024-10-24 135459](https://github.com/user-attachments/assets/21574a9d-0e20-4fa6-9649-b9fb842a622b)<br>
-<strong><em>web页面截图</em></strong>：作业运行成功<br>![屏幕截图 2024-10-24 142500](https://github.com/user-attachments/assets/d58deb4a-9da8-444a-9bd1-d3255621383d)<br>
+<strong><em>output结果</em></strong>输出按出现个数降序排序的股票代码和出现次数<br>![屏幕截图 2024-10-24 135459](https://github.com/user-attachments/assets/21574a9d-0e20-4fa6-9649-b9fb842a622b)<br>
+<strong><em>web页面截图</em></strong>作业运行成功<br>![屏幕截图 2024-10-24 142500](https://github.com/user-attachments/assets/d58deb4a-9da8-444a-9bd1-d3255621383d)<br>
 
 <h3>2.统计新闻标题</h3><br>
 <strong><em>output结果</em></strong>：输出按出现个数降序排序的标题中的单词<br>![屏幕截图 2024-10-24 214605](https://github.com/user-attachments/assets/8a6437a6-f566-4963-9efa-caf787882a8e)<br>
